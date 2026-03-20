@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "the EmpErroR",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2026-03-20T18:38:50.199419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The EmpErroR",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_The_EmpErroR_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the EmpErroR",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/02_the_EmpErroR_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the emperror",
+      "artist": "sasakureuk",
+      "has_synced": true,
+      "path": "select/03_the_emperror_sasakureuk.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "the EmpErroR",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/localdb_01_the_EmpErroR_sasakure.UK.lrc",
+      "repo_name": "AcXpEKKaH8A"
+    }
+  ]
+}
